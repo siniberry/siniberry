@@ -4,7 +4,7 @@
 
  <h3> 🐇 CONTECT 🐇 </h3>
 
- ##### 📓 PORTFOLIO >>  <a href="https://www.notion.so/bd39a0b2b5ce4fb9af5293f36a6730a0">![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/bd39a0b2b5ce4fb9af5293f36a6730a0) 
+ ##### 📓 PORTFOLIO >>  <a href="https://common-mallow-562.notion.site/About-Sieun-bd39a0b2b5ce4fb9af5293f36a6730a0">![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=mailto:https://common-mallow-562.notion.site/About-Sieun-bd39a0b2b5ce4fb9af5293f36a6730a0) 
  ##### 📫 EMAIL >>  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1031cory@gmail.com)](mailto:1031cory@gmail.com)
  ##### 📄 VLOG >>   <a href="https://velog.io/@siniberry"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://siniberry.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>  </br>
 
