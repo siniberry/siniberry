@@ -2,7 +2,7 @@
 
 <div align="center">
 
- <h3> 🐇 CONTECT 🐇 </h3>
+ <h3> 🐇 CONTACT 🐇 </h3>
 
  ##### 📓 PORTFOLIO >>  <a href="https://common-mallow-562.notion.site/About-Sieun-bd39a0b2b5ce4fb9af5293f36a6730a0">![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=mailto:https://common-mallow-562.notion.site/About-Sieun-bd39a0b2b5ce4fb9af5293f36a6730a0) 
  ##### 📫 EMAIL >>  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1031cory@gmail.com)](mailto:1031cory@gmail.com)
